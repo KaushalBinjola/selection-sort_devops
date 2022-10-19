@@ -15,7 +15,7 @@ public class SelectionSort {
     }  
        
     public static void main(String a[]){  
-        int[] arr1 = {9,14,3,2,43,11,58,22};  
+        int[] arr1 = {1,9,6,5,99,20,11,55,1};  
         System.out.println("Before Selection Sort");  
         for(int i:arr1){  
             System.out.print(i+" ");  
